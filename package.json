@@ -1,0 +1,11 @@
+{
+  "name": "crypto-wallet-monitor-web3",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "description": "Simple Web3 project to monitor wallet balances and transactions",
+  "author": "Nazrul Islam",
+  "license": "MIT"
+}
